@@ -31,7 +31,7 @@ body {
     padding: 20px;
     border-radius: 10px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3), 5px 10px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
 
 .post-it::before {
@@ -46,74 +46,74 @@ body {
 
 .n1 {
     transform: rotate(-5deg);
-    width: 180px;
+    width: 230px;
     height: 180px;
     margin-left: 10%;
     margin-top: 10%;
-    background: linear-gradient( #ADADC7, #C0C1E7, 88%, rgba(0, 0, 0, 0));
+    background: linear-gradient(to bottom, #fff9c4 50%, #fff9c4, #fff9c4 70%, #999999);
 }
 
 .n2 {
     transform: rotate(5deg);
-    width: 180px;
+    width: 230px;
     height: 180px;
     margin-left: 10%;
     margin-top: 10%;
-    background: linear-gradient(  #B8DEB9, #C8FAC9 50%, rgba(0, 0, 0, 0))
+    background: linear-gradient(to bottom, #C8FAC9 50%, #C8FAC9, #C8FAC9 70%, #999999);
 }
 
 .n3 {
     transform: rotate(-7deg);
-    width: 180px;
+    width: 230px;
     height: 180px;
     margin-left: 10%;
     margin-top: 10%;
-    background: linear-gradient( #ADADC7, #C0C1E7, 87%, rgba(0, 0, 0, 0));
+    background: linear-gradient(to bottom, #ADADC7 50%, #ADADC7, #ADADC7 70%, #999999a7);
 }
 
 .n4 {
     transform: rotate(5deg);
-    width: 180px;
+    width: 230px;
     height: 180px;
     margin-left: 10%;
     margin-top: 10%;
-    background: linear-gradient( #C8FAC9,#B8DEB9 60%, rgba(0, 0, 0, 0));
+    background: linear-gradient(to bottom, #C8FAC9 50%, #C8FAC9, #C8FAC9 70%, #999999);
 }
 
 .n5 {
     transform: rotate(3deg);
-    width: 180px;
+    width: 230px;
     height: 180px;
     margin-left: 10%;
     margin-top: 10%;
-    background: linear-gradient(  #B8DEB9, #C8FAC9 50%, rgba(0, 0, 0, 0))
+    background: linear-gradient(to bottom, #ADADC7 50%, #ADADC7, #ADADC7 70%, #999999a7);
 }
 
 .n6 {
     transform: rotate(2deg);
-    width: 180px;
+    width: 230px;
     height: 180px;
     margin-left: 10%;
     margin-top: 10%;
-    background: linear-gradient(  #FAFBC9, #C8C9A7 80%, rgba(0, 0, 0, 0))
+    background: linear-gradient(to bottom, #fff9c4 50%, #fff9c4, #fff9c4 70%, #999999);
 }
 
 .n7 {
     transform: rotate(5deg);
-    width: 180px;
+    width: 230px;
     height: 180px;
     margin-left: 10%;
     margin-top: 10%;
-    background: linear-gradient(  #B8DEB9, #C8FAC9 50%, rgba(0, 0, 0, 0))
+    background: linear-gradient(to bottom, #C8FAC9 50%, #C8FAC9, #C8FAC9 70%, #999999);
 }
 
 .n8 {
     transform: rotate(5deg);
-    width: 180px;
+    width: 230px;
     height: 180px;
     margin-left: 10%;
     margin-top: 10%;
-    background: linear-gradient(  #FAFBC9, #C8C9A7 75%, rgba(0, 0, 0, 0))
+    background: linear-gradient(to bottom, #fff9c4 50%, #fff9c4, #fff9c4 70%, #999999);
 }
 
 .paragraph {
