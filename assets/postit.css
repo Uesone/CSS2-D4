@@ -104,7 +104,7 @@ body {
     height: 180px;
     margin-left: 10%;
     margin-top: 10%;
-    background: linear-gradient(to bottom, #C8FAC9 50%, #C8FAC9, #C8FAC9 70%, #999999);
+    background: linear-gradient(to bottom, #C8FAC9 50%, #C8FAC9, #C8FAC9 70%, #d4d4d495);
 }
 
 .n8 {
